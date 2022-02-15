@@ -1,2 +1,2 @@
-# demo
+# DEV
 a demo website created using html css
